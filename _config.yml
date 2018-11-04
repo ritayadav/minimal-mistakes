@@ -104,8 +104,8 @@ author:
   name             : "Mahesh Kr. Yadav"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Programmer"
-  location         : "Somewhere"
-  email            :
+  location         : "Kathmandu, NP"
+  email            : "contact@maheshyadav.com.np"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
